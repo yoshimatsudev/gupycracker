@@ -8,6 +8,9 @@ dependencies:
   amqplib:
     specifier: ^0.10.3
     version: 0.10.3
+  body-parser:
+    specifier: ^1.20.2
+    version: 1.20.2
   express:
     specifier: ^4.18.3
     version: 4.18.3
